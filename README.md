@@ -35,7 +35,7 @@ tqdm
 
   Or install from sorce
   
-        pip  install --upgrade git+https://github.com/MedMNIST/MedMNIST.git
+        pip install --upgrade git+https://github.com/MedMNIST/MedMNIST.git
 
 ## Note
   - The default training epoch is ```10```. It can also be changed in ```TaskA.py``` and ```TaskB.py``` with the parameter name of ```num_epoches```
